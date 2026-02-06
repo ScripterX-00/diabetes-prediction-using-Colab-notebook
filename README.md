@@ -26,3 +26,17 @@ This project focuses on predicting whether a person is likely to have diabetes b
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
+
+# 📊 Accuracy
+- Support Vector Machine (SVM) :- 73%
+- Logistic Regression :-73%
+- K-Nearest Neighbors (KNN) :-81%
+- Gaussian Naive Bayes :-73%
+
+
+# 🏆 Best Performing Model
+
+Among all the tested models, K-Nearest Neighbors (KNN) achieved the highest accuracy of 81%, and was selected as the final model for diabetes prediction.
+
+## 👨‍💻 Developed by 
+Dibyajyoti Jana
