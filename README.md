@@ -38,5 +38,12 @@ This project focuses on predicting whether a person is likely to have diabetes b
 
 Among all the tested models, K-Nearest Neighbors (KNN) achieved the highest accuracy of 81%, and was selected as the final model for diabetes prediction.
 
+# 📁 Folder Structure
+
+diabetes-prediction-using-Colab-notebook/
+├── diabetes.csv 
+├── DiabetesPrediction.ipynb               
+└── README.md               # Project documentation
+
 ## 👨‍💻 Developed by 
 Dibyajyoti Jana
