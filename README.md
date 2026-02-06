@@ -41,6 +41,7 @@ Among all the tested models, K-Nearest Neighbors (KNN) achieved the highest accu
 # 📁 Folder Structure
 
 diabetes-prediction-using-Colab-notebook/
+│   
 ├── diabetes.csv 
 ├── DiabetesPrediction.ipynb               
 └── README.md               # Project documentation
